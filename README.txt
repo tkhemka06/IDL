@@ -15,9 +15,6 @@ test-clean: Used for final model evaluation.
 Each frame of the dataset is represented by a vector of 28 features derived from MFCC analysis. The corresponding labels indicate the phoneme spoken at each time step.
 https://www.kaggle.com/competitions/11785-spring-25-hw-1-p-2
 
-#WandB Link:
-https://wandb.ai/IDL_785/IDL_HW1P2
-
 #Features
 - Frame-level speech recognition using MFCC features.
 - Prediction of phonemes based on mel spectrogram representations.
